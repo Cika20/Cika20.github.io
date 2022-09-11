@@ -1,0 +1,11 @@
+.banner {
+    background: url("https://sp-ao.shortpixel.ai/client/q_glossy,ret_img/https://rsiapermata.com/wp-content/uploads/2021/06/Tenaga-Profesional.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
